@@ -289,6 +289,9 @@ body {
   position: relative;
 }
 
+.hero__brand {
+  color: var(--color-primary);
+}
 .hero__title::after {
   position: absolute;
   content: "";
